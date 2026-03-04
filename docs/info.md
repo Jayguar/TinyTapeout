@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Logic gates
 
 ## How to test
 
-Explain how to use your project
+Logic gates are used to display results on a screen
 
 ## External hardware
 
