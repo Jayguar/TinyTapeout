@@ -7,13 +7,12 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-## How it works
+
 
 Logic gates
 
-## How to test
 
 Logic gates are used to display results on a screen
 
-## External hardware
+
 IDK
