@@ -16,5 +16,4 @@ Logic gates
 Logic gates are used to display results on a screen
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+IDK
